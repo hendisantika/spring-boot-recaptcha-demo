@@ -6,4 +6,4 @@ Run this repo :
 
 `mvn clean spring-boot:run`
 
-[Home Screen](img/home.png)
+![Home Screen](img/home.png)
